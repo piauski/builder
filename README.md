@@ -1,5 +1,5 @@
-# Template
-TODO: Change this
+# Builder
+Simple 3D block game made in C with Raylib.
 
 # Building & Running
 
